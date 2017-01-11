@@ -2,6 +2,6 @@ import Ember from 'ember';
 
 export default Ember.Route.extend({
   model() {
-    return ["Larry Wall", "Linus Torvalds", "Grace Hopper"]
+    return ["Larry Wall", "Linus Torvalds", "Grace Hopper"];
   }
 });
